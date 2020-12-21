@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://crborga.github.io/website/posts/bio.html</loc>
+    <loc>/posts/bio.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crborga.github.io/website/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crborga.github.io/website/posts/games.html</loc>
+    <loc>/posts/games.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crborga.github.io/website/posts/home.html</loc>
+    <loc>/posts/home.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crborga.github.io/website/posts.html</loc>
+    <loc>/posts.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crborga.github.io/website/posts/software.html</loc>
+    <loc>/posts/software.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crborga.github.io/website/categories.html</loc>
+    <loc>/categories.html</loc>
   </url>
   
   <url>
-    <loc>https://crborga.github.io/website/tags.html</loc>
+    <loc>/tags.html</loc>
   </url>
   
 </urlset>
