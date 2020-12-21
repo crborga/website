@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Christopher Borga</title>
-    <link>/posts/</link>
+    <link>/posts.html</link>
     <description>Recent content in Posts on Christopher Borga</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bio</title>
-      <link>/posts/bio/</link>
+      <link>/posts/bio.html</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/bio/</guid>
+      <guid>/posts/bio.html</guid>
       <description>Building websites and working on computers has been a hobby of mine for about 20 years now. My web design skills are limited but as you can see I am able to code them. I would like to attend college and further educate myself in web design and pursue certifications for IT work. In my free time I play computer games and experiment with various Linux distributions.</description>
     </item>
     
     <item>
       <title>Games</title>
-      <link>/posts/games/</link>
+      <link>/posts/games.html</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/games/</guid>
+      <guid>/posts/games.html</guid>
       <description>Here are some screenshots of me playing WoW Classic. The UI you see in the screenshots is ElvUI.</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>/posts/home/</link>
+      <link>/posts/home.html</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/home/</guid>
+      <guid>/posts/home.html</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>/posts/software/</link>
+      <link>/posts/software.html</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/software/</guid>
+      <guid>/posts/software.html</guid>
       <description>As far as browsers go Mozilla Firefox, I recommend Mozilla Firefox. There are allot of debates but Mozilla is more concerned about user privacy than Google. Pre-installed browsers like Edge and IE are often targetted because they are pre-installed with Windows.Check it out
 Nowadays, not many people still use a email client on there computer but if you Bluemail is pretty awesome. They support pretty much every email service there is and almost every platform.</description>
     </item>

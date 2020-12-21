@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/bio/</loc>
+    <loc>/posts/bio.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,31 +13,31 @@
   </url>
   
   <url>
-    <loc>/posts/games/</loc>
+    <loc>/posts/games.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/home/</loc>
+    <loc>/posts/home.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/posts.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/software/</loc>
+    <loc>/posts/software.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/categories.html</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags.html</loc>
   </url>
   
 </urlset>
